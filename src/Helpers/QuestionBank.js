@@ -5,7 +5,7 @@ export const Questions = [
       optionB: "Shagufta",
       optionC: "Shayasta",
       optionD: "Saif",
-      asnwer: "Shagufta",
+      asnwer: "optionB",
     },
     {
       prompt: "Which of this is not one of Naruto Characters",
@@ -13,7 +13,7 @@ export const Questions = [
       optionB: "Kakashi Hatake",
       optionC: "Naruto Uzumaki",
       optionD: "Tomoe",
-      asnwer: "Tomoe",
+      asnwer: "optionC",
     },
     {
       prompt: "RM learned English by watching which of the following shows",
@@ -21,6 +21,6 @@ export const Questions = [
       optionB: "FRIENDS",
       optionC: "How I Met Your Mother",
       optionD: "Orange Is The New Black",
-      asnwer: "FRIENDS",
+      asnwer: "optionsB",
     },
   ];
